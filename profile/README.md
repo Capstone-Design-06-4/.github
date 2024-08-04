@@ -1,12 +1,3 @@
-## Hi there 👋
+## 프로젝트 소개
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ToBeHonest는 (https://www.notion.so/ToBeHonest-b3b320317bac4aa4ac7b63f8b31a1d57 )에서 확인할 수 있습니다.
